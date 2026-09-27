@@ -4,7 +4,7 @@ title: about
 
 permalink: /
 
-subtitle: Professor at IF Baiano | Ph.D. Candidate in Remote Sensing at INPE
+subtitle: "Professor at IF Baiano | Ph.D. Candidate in Remote Sensing at INPE"
 
 
 
