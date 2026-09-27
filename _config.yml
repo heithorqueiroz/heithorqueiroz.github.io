@@ -25,7 +25,7 @@ lang: en
 icon: ⚛️ 
 apple_touch_icon: 
 
-url: https://heithorqueiroz.github.io
+url: "https://heithorqueiroz.github.io"
 baseurl: "" 
 last_updated: true 
 impressum_path: 
